@@ -12,6 +12,6 @@
 //The interface should be user-friendly, allowing users to easily input search values and view results.
 //The program should consistently provide correct search results and handle errors gracefully without crashing.
 //Code should be modular and well-documented to facilitate future updates or modifications.
-//While initially designed for 24 elements, the program structure should allow for easy adjustment of the array size if needed in the future.
+//The program structure should allow for easy adjustment of the array size if needed in the future.
 //The method for generating random integers must be reliable and consistent to simulate the data stream.
-//The sorting algorithm (Bubble Sort) should efficiently handle the small size of the array (24 elements).
+//The sorting algorithm (Bubble Sort) should handle the small size of the array (24 elements).
