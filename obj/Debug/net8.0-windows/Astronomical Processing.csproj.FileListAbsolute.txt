@@ -1,0 +1,64 @@
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.exe
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.deps.json
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.runtimeconfig.json
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.dll
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.pdb
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical_Processing.Form1.resources
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.csproj.GenerateResource.cache
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.AssemblyInfoInputs.cache
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.AssemblyInfo.cs
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.csproj.CoreCompileInputs.cache
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.dll
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\refint\Astronomical Processing.dll
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.pdb
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.genruntimeconfig.cache
+C:\Users\30099789\Desktop\AT2\Astronomical Processing\obj\Debug\net8.0-windows\ref\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical_Processing.Form1.resources
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.csproj.GenerateResource.cache
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.AssemblyInfoInputs.cache
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.AssemblyInfo.cs
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.csproj.CoreCompileInputs.cache
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\refint\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.pdb
+C:\Users\30099789\Desktop\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.exe
+C:\Users\30099789\Desktop\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.deps.json
+C:\Users\30099789\Desktop\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.runtimeconfig.json
+C:\Users\30099789\Desktop\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing\bin\Debug\net8.0-windows\Astronomical Processing.pdb
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\Astronomical Processing.genruntimeconfig.cache
+C:\Users\30099789\Desktop\Astronomical Processing\obj\Debug\net8.0-windows\ref\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\bin\Debug\net8.0-windows\Astronomical Processing.exe
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\bin\Debug\net8.0-windows\Astronomical Processing.deps.json
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\bin\Debug\net8.0-windows\Astronomical Processing.runtimeconfig.json
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\bin\Debug\net8.0-windows\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\bin\Debug\net8.0-windows\Astronomical Processing.pdb
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical_Processing.Form1.resources
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical Processing.csproj.GenerateResource.cache
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical Processing.AssemblyInfoInputs.cache
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical Processing.AssemblyInfo.cs
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical Processing.csproj.CoreCompileInputs.cache
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\refint\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical Processing.pdb
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\Astronomical Processing.genruntimeconfig.cache
+C:\Users\30099789\Desktop\Astronomical Processing v 1.1\obj\Debug\net8.0-windows\ref\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\bin\Debug\net8.0-windows\Astronomical Processing.exe
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\bin\Debug\net8.0-windows\Astronomical Processing.deps.json
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\bin\Debug\net8.0-windows\Astronomical Processing.runtimeconfig.json
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\bin\Debug\net8.0-windows\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\bin\Debug\net8.0-windows\Astronomical Processing.pdb
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical Processing.csproj.GenerateResource.cache
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical Processing.AssemblyInfoInputs.cache
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical Processing.AssemblyInfo.cs
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical Processing.csproj.CoreCompileInputs.cache
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\refint\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical Processing.pdb
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical Processing.genruntimeconfig.cache
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\ref\Astronomical Processing.dll
+C:\Users\30099789\Desktop\Astronomical Processing v 2.0\obj\Debug\net8.0-windows\Astronomical_Processing.Astronomical_Processing.resources
